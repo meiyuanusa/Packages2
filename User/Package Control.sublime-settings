@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"Anaconda",
+		"AutoFileName",
+		"Babel",
+		"Case Conversion",
+		"CodeComplice",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"Git Conflict Resolver",
+		"GitGutter",
+		"GitGutter-Edge",
+		"GitTimeMetric",
+		"HTML-CSS-JS Prettify",
+		"Local History",
+		"Package Control",
+		"PHP Companion",
+		"Sass",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Sublimerge 3",
+		"Xdebug Client"
+	]
+}
